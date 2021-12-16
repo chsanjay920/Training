@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\bin\Debug\fiveButtonProgram.exe.config
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\bin\Debug\fiveButtonProgram.exe
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\bin\Debug\fiveButtonProgram.pdb
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\obj\Debug\fiveButtonProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\obj\Debug\fiveButtonProgram.Form1.resources
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\obj\Debug\fiveButtonProgram.Properties.Resources.resources
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\obj\Debug\fiveButtonProgram.csproj.GenerateResource.cache
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\obj\Debug\fiveButtonProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\obj\Debug\fiveButtonProgram.exe
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\obj\Debug\fiveButtonProgram.pdb
+C:\Users\User\source\repos\fiveButtonProgram\fiveButtonProgram\obj\Debug\fiveButtonProgram.csproj.AssemblyReference.cache

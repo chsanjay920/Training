@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\bin\Debug\listBoxPractiseApplication.exe.config
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\bin\Debug\listBoxPractiseApplication.exe
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\bin\Debug\listBoxPractiseApplication.pdb
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\obj\Debug\listBoxPractiseApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\obj\Debug\listBoxPractiseApplication.Form1.resources
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\obj\Debug\listBoxPractiseApplication.Properties.Resources.resources
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\obj\Debug\listBoxPractiseApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\obj\Debug\listBoxPractiseApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\obj\Debug\listBoxPractiseApplication.exe
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\obj\Debug\listBoxPractiseApplication.pdb
+C:\Users\User\source\repos\listBoxPractiseApplication\listBoxPractiseApplication\obj\Debug\listBoxPractiseApplication.csproj.AssemblyReference.cache
