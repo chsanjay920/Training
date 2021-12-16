@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\chattingWindow\chattingWindow\bin\Debug\chattingWindow.exe.config
+C:\Users\User\source\repos\chattingWindow\chattingWindow\bin\Debug\chattingWindow.exe
+C:\Users\User\source\repos\chattingWindow\chattingWindow\bin\Debug\chattingWindow.pdb
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.Form1.resources
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.Form2.resources
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.Properties.Resources.resources
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.csproj.GenerateResource.cache
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.exe
+C:\Users\User\source\repos\chattingWindow\chattingWindow\obj\Debug\chattingWindow.pdb
