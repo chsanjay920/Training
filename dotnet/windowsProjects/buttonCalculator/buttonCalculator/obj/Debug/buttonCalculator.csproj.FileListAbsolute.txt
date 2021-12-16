@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\bin\Debug\buttonCalculator.exe.config
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\bin\Debug\buttonCalculator.exe
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\bin\Debug\buttonCalculator.pdb
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\obj\Debug\buttonCalculator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\obj\Debug\buttonCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\obj\Debug\buttonCalculator.Form1.resources
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\obj\Debug\buttonCalculator.Properties.Resources.resources
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\obj\Debug\buttonCalculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\obj\Debug\buttonCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\obj\Debug\buttonCalculator.exe
+C:\Users\User\source\repos\buttonCalculator\buttonCalculator\obj\Debug\buttonCalculator.pdb
